@@ -4,7 +4,7 @@ about: It is a necessary task to do in the project
 
 ---
 
-### Explication
+### Explanation
  A clear and concise explication about the task.
 
 ### Screenshots
